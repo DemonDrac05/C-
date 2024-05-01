@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1703617835 source:c:\users\owner\desktop\programming language\c++ language\hangman\main.cpp
+	<iostream>
+	<windows.h>
+	<algorithm>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<cctype>
+	<bitset>
+	<fstream>
+	<vector>
+	<sstream>
+

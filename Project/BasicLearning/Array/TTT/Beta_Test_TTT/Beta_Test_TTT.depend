@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701726947 source:c:\users\owner\documents\vilnius business college\c++\array\ttt\beta_test_ttt\main.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+

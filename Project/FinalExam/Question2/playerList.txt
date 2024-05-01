@@ -1,0 +1,4 @@
+Name		Win	  Lost	    Total     %Win
+Thang     	1         1         0         1
+Fred      	1         1         0         1
+Mikhail   	1         1         0         1
