@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698389082 source:c:\users\owner\documents\vilnius business college\c++\color(bitset)\color\main.cpp
+	<iostream>
+	<windows.h>
+	<bitset>
+

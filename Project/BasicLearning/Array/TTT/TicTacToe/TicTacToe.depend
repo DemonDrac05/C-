@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701470238 source:c:\users\owner\documents\vilnius business college\c++\array\ttt\tictactoe\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

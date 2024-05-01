@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698391249 source:c:\users\owner\documents\vilnius business college\c++\condition\menu\menu\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<windows.h>
+	<bitset>
+

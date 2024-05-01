@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697621417 source:c:\users\owner\documents\vilnius business college\c++\condition\dice_roll\main.cpp
+	<iostream>
+	<cstdlib>
+
